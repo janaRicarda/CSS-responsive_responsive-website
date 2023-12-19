@@ -282,6 +282,6 @@ width, etc. */
     width: 50%;
     grid-column: 1 / 3;
     display: flex;
-    place-content: center;
+    justify-self: center;
   }
 }
